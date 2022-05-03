@@ -1,0 +1,44 @@
+Les conséquences suites aux cyberattaques sur les banques
+§§§
+Les conséquences économiques des cyberattaques
+§§Lorsqu'une cyberattaque est réussie, elle engendre des conséquences sur les acteurs qui sont plus ou moins liées aux banques, mais plus généralement au marché financier. C'est donc pour cette raison qu’il y a un important besoin des acteurs tels que les banques, de se défendre face aux cybermenaces. Autrement, elles pourraient perdre leurs clientèles et leurs fonds propres. On estime sur les cinq prochaines années, qu’environ 4.6 milliards d’euros pourront être réalisés en bénéfices pour le cybercrime.
+§§Le souci majeur de la cyberattaque est qu’elle peut se diversifier pour plusieurs raisons, selon ce que les hackers cherchent à obtenir. De ce fait, on relève l’existence de deux grandes hypothèses approuvées par une source humaine. Celle-ci explique les conséquences d’un cybercrime :
+§§      L'hypothèse de pillage informatique, où le hacker vole les économies de la banque
+		µµLe <a href="https://en.wikipedia.org/wiki/Data_theft">vol de données</a>, où le hacker décide de voler les données client
+§§Pour abréger, les conséquences économiques se résument ainsi :
+§§  Pour les entreprises :
+	    µµCe qu'il y a de plus visible par exemple : les frais de restauration de données
+		µCe qu'il y a de plus "immergé" par exemple : la perte de confiance accordée par les clients.
+	µµPour les particuliers, ils pourraient, par exemple, perdre leurs économies sur leurs comptes bancaires.
+	µµPour les banques, ils pourraient, par exemple, subir de possibles indemnités judiciaires.
+§§§
+Les conséquences juridiques des cyberattaques
+§§Une cyberattaque est considérée comme illégale aux yeux de toutes les lois. Elle entraîne ainsi, obligatoirement des sanctions pénales.
+§§De ce fait, le gouvernement va mener les enquêtes suites aux plaintes de cyberattaque et va infliger des sanctions pénales aux cybershackers à la condition que ces derniers soient repérés par les services de ce domaine. Voici les services qui sont attachés :
+    µµPolice nationale : l’<a href="https://fr.m.wikipedia.org/wiki/Office_central_de_lutte_contre_la_criminalit%C3%A9_li%C3%A9e_aux_technologies_de_l%27information_et_de_la_communication">Office central de lutte contre la criminalité liée aux technologies de l’information et de la communication</a> (OCLCTIC) qui dépend de la <a href="https://www.police-nationale.interieur.gouv.fr/Organisation/Direction-Centrale-de-la-Police-Judiciaire/Lutte-contre-la-criminalite-organisee/Sous-direction-de-lutte-contre-la-cybercriminalite">Sous-direction de lutte contre la cybercriminalité</a> (SDLC)
+    µµGendarmerie nationale : <a href=" https://fr.m.wikipedia.org/wiki/Centre_de_lutte_contre_les_criminalit%C3%A9s_num%C3%A9riques">le centre de lutte contre les criminalités numériques (C3N)</a> du <a href="https://www.gendarmerie.interieur.gouv.fr/pjgn/scrcgn">Service Central du Renseignement Criminel</a> (SCRC)
+    µµPréfecture de police : la Préfecture de police de Paris, de la <a href="https://fr.m.wikipedia.org/wiki/Direction_g%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_int%C3%A9rieure">Direction centrale du renseignement intérieur</a> (DCRI) et ses équipes de la <a href=" https://fr.m.wikipedia.org/wiki/Brigade_d%27enqu%C3%AAtes_sur_les_fraudes_aux_technologies_de_l%27information">Brigade d’enquêtes sur les fraudes aux technologies de l’information</a> (BEFTI)...
+§§Les cybercriminels, s'ils se font arrêter, seront jugés et condamnés. En France, voici les sanctions applicables :
+§§“Si vous accédez sans autorisation à des données privées, vous pouvez subir une peine d’emprisonnement de deux ans ainsi que le paiement d’une grosse amende de 60 000 €. Si en plus de cela, le système fonctionne en alternance, la peine sera de 3 ans d’emprisonnement avec une amende de 100 000 €.
+§§Si vous avez volé l’identité d’une personne en ligne afin de l’utiliser à des fins frauduleuses, sachez que vous risquez de passer 5 ans en prison et de payer en même temps une amende de 75 000 €.
+§§Si vous tentez de modifier le fonctionnement d’un système de traitement automatisé de donnée mis en place par l’État, vous risquez une peine d’emprisonnement de 7 ans et une amende de 100 000 €.”
+§§Il existe un historique de textes qui relatent les évolutions de la législation informatique. Il ne tient pas compte que les hackers puissent être recrutés par une banque pour les aider à renforcer leurs défenses. Néanmoins, ils ne sont pas à l'abri de se faire sanctionner par la <a href="https://fr.m.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s_(France)">CNIL</a> puisqu'elle est responsable des données (coordonnées et économies) que les clients confient. La règle d'or est l'OLSSI : <a href="https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information">obligation légale de Sécurisation des Systèmes d'Information</a>. Dans le cas contraire(non-respect de L'OLSSI), la banque peut subir un double jugement, tant par le client que par la CNIL et subira des sanctions pécuniaires.
+§§§
+Les banques publiques et privées : les différences notables
+§§En premier lieu, nous allons comprendre ce qu'est une <a href="https://fr.wikipedia.org/wiki/Banque_priv%C3%A9e">banque privée</a> : c'est un type de banque qui possède, pour majeure partie, de capitaux privés, c’est-à-dire que ce sont les clients fortunés qui investissent dans leurs propres banques. Cette forme de banque propose des services financiers “sur-mesure” à leurs clients.
+§§Une banque publique est donc le contraire de celle du privé : ses capitaux sont majoritairement publics (donc par le gouvernement) et ses services sont destinés au grand public (pour la majorité de la population). La règle est la suivante : toute banque publique se doit d’être sous l’étroite surveillance de l’État afin de réduire leurs pouvoirs sur le marché.
+§§Néanmoins, il est aisé de confondre ces deux formes de banques via leurs noms, mais la majorité des banques en France est publique. Les banques privées sont généralement une alternative du service bancaire, dans le but de produire ces mêmes services, mais auprès de la clientèle fortunée. De ce fait, l’on peut se demander quelles pourraient être les réactions de chacune de ces formes de banques, face aux cyberattaques.
+§§De par la différence de clientèle, les réactions auprès des cyberattaques peuvent varier selon les conditions matérielles ou logiciels qui composent la défense informatique de la banque. Malheureusement, nous ne pouvons pas réellement trouver la réponse à cette question sur Internet, car ce genre d'information n'est pas communiqué.
+§§La réaction face à une cyberattaque se déroule en 3 phases : détection de la faiblesse, réparation de faille et si possible, on effectue une mise à jour d’amélioration pour renforcer le tout. Le principe est le même pour les 2 formes de banques.
+§§Néanmoins, on peut observer des faiblesses dans la cyberdéfense de ces banques :
+§§  Aperçu limité des principaux actifs informatiques et du paysage des menaces
+    µµErreur de hiérarchisation des données
+    µµCompréhension des menaces incomplète
+    µµNon-priorisation de la cybersécurité
+    µµNiveau de prévention variable
+    µµAbsence de culture de sécurité
+    µµProblème d’allocation de ressources
+    µµDéfaut de recruter des talents
+    µµFaible gestion des tiers
+    µµStress opérationnel
+§§Les hackers sont habitués à analyser ces faiblesses et de les utiliser pour pirater la banque. Quant à l'action de l'état, il n'y aura pas de différences selon le statut de la banque.
