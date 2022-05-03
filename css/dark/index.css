@@ -1,0 +1,52 @@
+.index_01{
+    height: 110vh;
+    background-image: url("../../images/bg_acc_01.jpg"); /* https://pixabay.com/fr/illustrations/clé-château-sécurité-métal-3d-3348307/ clé  https://pixabay.com/fr/illustrations/coffre-fort-voûte-porte-en-acier-913452/ coffre*/
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#container_01{
+    color: white;
+}
+
+#title_index{
+    color: black;
+}
+
+.anti-saut-de-ligne{
+    white-space: nowrap;
+}
+
+#texte_index {
+    color: white;
+}
+
+#body_index{
+
+}
+
+.index_title{
+    background-image: url("../../images/bg_acc_01.jpg");
+    background-size: cover;
+    margin-top: -20px;
+}
+
+.asside_height{
+    margin-bottom: 20px;
+}
+
+.index_prem{
+    height: 700px;
+}
+
+.index_intro{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    background-color: rgba(0,0,0,0.5);
+}
+
+#test{
+    vertical-align: middle;
+}
